@@ -7,12 +7,14 @@
   padding: 10px 15px;
   margin: 3px;
   text-decoration: none;
-  background-color: #009999;
-  color: white;
-  border-radius: 5px;
+  background-color: #ffffff;
+  color: black;
+  border: #000000;
+  border-radius: 0px;
   font-weight: bold;
   display: inline-block;
   transition: background-color 0.3s ease;
+  line-height:1.6;
 }
 .pagination a:hover {
   background-color: #ff6600;
