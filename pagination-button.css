@@ -13,7 +13,7 @@
   font-weight: bold;
   display: inline-block;
   transition: background-color 0.3s ease;
-  line-height:1.6;
+
 }
 .pagination a:hover {
   background-color: #ff6600;
